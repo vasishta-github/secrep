@@ -1,2 +1,2 @@
 # secrep
-this is secrep readme file
+this is secrep readme.md file
